@@ -1,5 +1,6 @@
 ---
 layout: default
+---
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
@@ -9,4 +10,4 @@ layout: default
 
 # All art was made by Justin Lantigua, our creator, blessed are we for being brought into this world.
 Commercial use of my intellectual property without permission is forbidden. All rights reserved.
----
+
