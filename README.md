@@ -1,2 +1,2 @@
-# JustinLantigua
+# Welcome to your initiation
 
